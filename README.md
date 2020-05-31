@@ -5,11 +5,11 @@ En ese proyecto se presentan 5 ejemplos para comprender los conceptos de control
 
 ## Ejemplo 1
 
-Código en el archivo: ejercicio1-condicionales.py
+Código en el archivo: [ejercicio1-condicionales.py](https://github.com/raformatico/5-ejemplos-if-elif-else/blob/master/ejercicio1-condicionales.py)
 
 ## Ejemplo 2
 
-Código en el archivo: ejercicio2-condicionales.py
+Código en el archivo: [ejercicio2-condicionales.py](https://github.com/raformatico/5-ejemplos-if-elif-else/blob/master/ejercicio2-condicionales.py)
 
 ## Ejemplo 3
 
@@ -17,14 +17,14 @@ Código tomado del resultado del [Curso Completo - Desarrolla tu primer videojue
 
 ## Ejemplo 4
 
-Código en el archivo: ejercicio4-condicionales.py. Para utilizar este código es necesario disponer del software Minecraft for education.
+Código en el archivo: [ejercicio4-condicionales.py](https://github.com/raformatico/5-ejemplos-if-elif-else/blob/master/ejercicio4-condicionales.py). Para utilizar este código es necesario disponer del software Minecraft for education.
 
 ## Ejemplo 5
 
-Código en el archivo: ejercicio5-condicionales.py. Para utilizar este código es necesario disponer del software Minecraft for education.
+Código en el archivo: [ejercicio5-condicionales.py](https://github.com/raformatico/5-ejemplos-if-elif-else/blob/master/ejercicio5-condicionales.py). Para utilizar este código es necesario disponer del software Minecraft for education.
 
 
 
 ## Licencia
 
-El proyecto está protegido por la licencia MIT (ver archivo de licencia).
+El proyecto está protegido por la licencia MIT (ver [archivo de licencia](https://github.com/raformatico/5-ejemplos-if-elif-else/blob/master/LICENSE)).
