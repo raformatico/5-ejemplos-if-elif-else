@@ -5,18 +5,26 @@ En ese proyecto se presentan 5 ejemplos para comprender los conceptos de control
 
 ## Ejemplo 1
 
-
+Código en el archivo: ejercicio1-condicionales.py
 
 ## Ejemplo 2
 
-
+Código en el archivo: ejercicio2-condicionales.py
 
 ## Ejemplo 3
 
+Código tomado del resultado del [Curso Completo - Desarrolla tu primer videojuego en Godot Engine 3.2](https://www.youtube.com/watch?v=1wSwA1cYzIA): enlace al código [aquí](https://github.com/raformatico/Rafanoid)
+
+## Ejemplo 4
+
+Código en el archivo: ejercicio4-condicionales.py. Para utilizar este código es necesario disponer del software Minecraft for education.
+
+## Ejemplo 5
+
+Código en el archivo: ejercicio5-condicionales.py. Para utilizar este código es necesario disponer del software Minecraft for education.
 
 
 
-
-# Licencia
+## Licencia
 
 El proyecto está protegido por la licencia MIT (ver archivo de licencia).
