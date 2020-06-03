@@ -1,5 +1,5 @@
 # 5 ejemplos de control de flujo en Python: if/elif/else
-En ese proyecto se presentan 5 ejemplos para comprender los conceptos de controlo de flujo en programación: [enlace a la explicación](https://www.youtube.com/channel/UCTkWxKrxcsldWFRGPeAsi3g)
+En ese proyecto se presentan 5 ejemplos para comprender los conceptos de controlo de flujo en programación: [enlace a la explicación](https://youtu.be/OFKv7BXWerw)
 
 
 
